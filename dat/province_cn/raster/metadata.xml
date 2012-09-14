@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="zh"><Esri><MetaID>{BEB76072-13F1-43D6-A73C-03A0D355A9FE}</MetaID><CreaDate>20100316</CreaDate><CreaTime>16354400</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureToRaster" Date="20100316" Time="163544">FeatureToRaster D:\ts-sta\Default\vec\province_cn\province_cn.shp PROVINCE_I D:\ts-sta\Default\vec\province_cn\raster .141559</Process></lineage></DataProperties></Esri></metadata>
